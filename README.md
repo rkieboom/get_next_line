@@ -1,8 +1,8 @@
-get_next_line
+# get_next_line
 
 A function that reads a single line from a file descriptor.
 
-Features
+## Features
 
 Handles multiple file descriptor
 Handles edge cases such as empty lines and EOF
@@ -11,7 +11,7 @@ Usage
 
 This function can be used as a reference or starting point for your own projects that require reading line by line.
 
-Example
+## Example
 ```
 #include "get_next_line.h"
 
